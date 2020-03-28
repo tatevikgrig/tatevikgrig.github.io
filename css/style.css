@@ -393,7 +393,7 @@ input[type=submit]:hover {
 }
 
 .about_main{
-	width: 1200px;
+	width: 1400px;
 	box-shadow: 0 0 2px rgba(0,0,0,0.3), 0 1px 10px rgba(0,0,0,0.3);
 	border-radius: 10px;
 	border: 2px solid #ccc;
@@ -401,7 +401,7 @@ input[type=submit]:hover {
 
 }
 .about_text{
-	padding:  40px;
+	padding:  100px 40px 40px 100px;
 
 }
 
